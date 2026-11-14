@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://codigodaiaoficial.github.io/sitemap.xml
